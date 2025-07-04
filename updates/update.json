@@ -1,7 +1,8 @@
 {
-  "win32-x64-prod": {
-    "update": "https://github.com/kvnc7/lygos/releases/download/win32-x64-prod-3.6.37",
-    "install": "https://github.com/kvnc7/lygos/releases/download/win32-x64-prod-3.6.37/lygos.Setup.3.6.37.exe",
-    "version": "3.6.37"
+  "linux-x64-prod": {
+    "update": "https://github.com/kvnc7/lygos/releases/download/linux-x64-prod-3.6.37/lygos-3.6.37.AppImage",
+    "install": "https://github.com/kvnc7/lygos/releases/download/linux-x64-prod-3.6.37/lygos-3.6.37.AppImage",
+    "version": "3.6.37",
+    "sha256": "1c7e63282340ea64bf2360d751ad6b60279f12efad3e76f68775190b00629d2b"
   }
 }
