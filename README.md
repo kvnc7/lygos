@@ -2,7 +2,7 @@
 
 Windows, Linux and Mac Releases
 
-Please visit [lygos.io]:https://lygos.io for more information about lygos software.
+Please visit https://lygos.io for more information about lygos software.
 
 IMPORTANT! By downloading our software you will be accepting our EULA :
 
