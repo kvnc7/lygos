@@ -1,0 +1,7 @@
+{
+  "darwin-x64-dev": {
+    "update": "https://github.com/kvnc7/lygos/releases/download/darwin-x64-dev-3.7.14/release.json",
+    "install": "https://github.com/kvnc7/lygos/releases/download/darwin-x64-dev-3.7.14/lygos-3.7.14.dmg",
+    "version": "3.7.14"
+  }
+}
