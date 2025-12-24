@@ -1,7 +1,7 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/kvnc7/lygos/releases/download/win32-x64-prod-3.7.14",
-    "install": "https://github.com/kvnc7/lygos/releases/download/win32-x64-prod-3.7.14/lygos.Setup.3.7.14.exe",
-    "version": "3.7.14"
+    "update": "https://github.com/kvnc7/lygos/releases/download/win32-x64-prod-3.7.57",
+    "install": "https://github.com/kvnc7/lygos/releases/download/win32-x64-prod-3.7.57/lygos.Setup.3.7.57.exe",
+    "version": "3.7.57"
   }
 }
