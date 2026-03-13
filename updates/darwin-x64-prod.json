@@ -1,7 +1,7 @@
 {
   "darwin-x64-prod": {
-    "update": "https://github.com/kvnc7/lygos/releases/download/darwin-x64-prod-3.7.57/release.json",
-    "install": "https://github.com/kvnc7/lygos/releases/download/darwin-x64-prod-3.7.57/lygos-3.7.57.dmg",
-    "version": "3.7.57"
+    "update": "https://github.com/kvnc7/lygos/releases/download/darwin-x64-prod-3.8.5/release.json",
+    "install": "https://github.com/kvnc7/lygos/releases/download/darwin-x64-prod-3.8.5/lygos-3.8.5.dmg",
+    "version": "3.8.5"
   }
 }
