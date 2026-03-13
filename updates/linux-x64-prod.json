@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/kvnc7/lygos/releases/download/linux-x64-prod-3.8.4/lygos-3.8.4.AppImage",
-    "install": "https://github.com/kvnc7/lygos/releases/download/linux-x64-prod-3.8.4/lygos-3.8.4.AppImage",
-    "version": "3.8.4",
-    "sha256": "ada392b2c33cbae93cbb59944f0a5a54a7eed6e8ddde1b1d283588acdc64799e"
+    "update": "https://github.com/kvnc7/lygos/releases/download/linux-x64-prod-3.8.5/lygos-3.8.5.AppImage",
+    "install": "https://github.com/kvnc7/lygos/releases/download/linux-x64-prod-3.8.5/lygos-3.8.5.AppImage",
+    "version": "3.8.5",
+    "sha256": "3424721a5e8c0510b36b441bede402e8722211866a02356d1cb3a9d28ff0f118"
   }
 }
