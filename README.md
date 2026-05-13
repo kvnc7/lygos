@@ -1,4 +1,12 @@
-# Lygos PC Releases
+# Lygos
+
+[Description](#description) | [Guide](#guide) | [License](#license)
+
+## Description
+
+## Guide
+
+## License
 
 Windows, Linux and Mac Releases
 
